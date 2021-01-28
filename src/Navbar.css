@@ -1,0 +1,21 @@
+.navbar-nav {
+  margin-left: auto;
+}
+
+.navbar {
+  background-color: white !important;
+}
+
+.navbar-brand {
+  font-size: 1.5rem !important;
+  color: #565387 !important;
+}
+
+.menu_active {
+  font-weight: bold;
+  border-bottom: 1px solid #565387;
+}
+
+.navbar a:hover {
+  color: #3498db !important;
+}
